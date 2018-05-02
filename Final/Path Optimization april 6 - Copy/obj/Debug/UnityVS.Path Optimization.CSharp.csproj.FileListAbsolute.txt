@@ -1,0 +1,22 @@
+C:\Users\aparant\Documents\Unity Projects\Path Optimization\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Users\aparant\Documents\Unity Projects\Path Optimization\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\aparant\Documents\Unity Projects\Path Optimization\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\aparant\Documents\Unity Projects\Path Optimization\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\aparant\Documents\Unity Projects\Path Optimization\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Users\aparant\Documents\Unity Projects\Path Optimization\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\aparant\Documents\Unity Projects\Path Optimization\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\aparant\Documents\Unity Projects\Path Optimization\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Users\aparant\Documents\Unity Projects\Path Optimization\obj\Debug\UnityVS.Path Optimization.CSharp.csprojResolveAssemblyReference.cache
+C:\Users\aparant\Documents\Unity Projects\Path Optimization\obj\Debug\Assembly-CSharp.dll
+C:\Users\aparant\Documents\Unity Projects\Path Optimization\obj\Debug\Assembly-CSharp.pdb
+C:\Users\aparant\Videos\Unity Projects\Path Optimization\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Users\aparant\Videos\Unity Projects\Path Optimization\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\aparant\Videos\Unity Projects\Path Optimization\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\aparant\Videos\Unity Projects\Path Optimization\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\aparant\Videos\Unity Projects\Path Optimization\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Users\aparant\Videos\Unity Projects\Path Optimization\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\aparant\Videos\Unity Projects\Path Optimization\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\aparant\Videos\Unity Projects\Path Optimization\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Users\aparant\Videos\Unity Projects\Path Optimization\obj\Debug\UnityVS.Path Optimization.CSharp.csprojResolveAssemblyReference.cache
+C:\Users\aparant\Videos\Unity Projects\Path Optimization\obj\Debug\Assembly-CSharp.dll
+C:\Users\aparant\Videos\Unity Projects\Path Optimization\obj\Debug\Assembly-CSharp.pdb

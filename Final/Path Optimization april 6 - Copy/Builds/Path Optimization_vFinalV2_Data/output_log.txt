@@ -1,0 +1,141 @@
+Initialize engine version: 5.0.0f4 (5b98b70ebeb9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 650M  (ID=0xfd1)
+    Vendor:   NVIDIA
+    VRAM:     1985 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\aparant\Videos\Unity Projects\Path Optimization\Builds\Path Optimization_vFinalV2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\aparant\Videos\Unity Projects\Path Optimization\Builds\Path Optimization_vFinalV2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\aparant\Videos\Unity Projects\Path Optimization\Builds\Path Optimization_vFinalV2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\aparant\Videos\Unity Projects\Path Optimization\Builds\Path Optimization_vFinalV2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\aparant\Videos\Unity Projects\Path Optimization\Builds\Path Optimization_vFinalV2_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\aparant\Videos\Unity Projects\Path Optimization\Builds\Path Optimization_vFinalV2_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\aparant\Videos\Unity Projects\Path Optimization\Builds\Path Optimization_vFinalV2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\aparant\Videos\Unity Projects\Path Optimization\Builds\Path Optimization_vFinalV2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.066 seconds
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\aparant\Videos\Unity Projects\Path Optimization\Builds\Path Optimization_vFinalV2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\aparant\Videos\Unity Projects\Path Optimization\Builds\Path Optimization_vFinalV2_Data\Managed\System.dll (this message is harmless)
+Path computed for BFS in 2392ms
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+bfs efficiency is 443.7469
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+path computed of Astar in 0ms
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+path computed of BestFS in 1.016616ms
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+base 5 is 275.7155
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+base 2 is 640.1915
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+dfs efficiency is 443.7469
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Rank at 0 is 17
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Rank at 1 is 16
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Rank at 2 is 14
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Rank at 3 is 11
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Rank at 4 is 13
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Rank at 5 is 16
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Best algorithm isASTARMODIFIED 0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.811114 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 4322.
+Total: 1.277341 ms (FindLiveObjects: 0.180889 ms CreateObjectMapping: 0.209112 ms MarkObjects: 0.874083 ms  DeleteObjects: 0.012829 ms)
+
+Path computed for BFS in 32487ms
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+bfs efficiency is 443.7469
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+path computed of Astar in 0ms
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+path computed of BestFS in 1.016571ms
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+base 5 is 275.7155
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+base 2 is 640.1915
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+dfs efficiency is 443.7469
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Rank at 0 is 13
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Rank at 1 is 17
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Rank at 2 is 16
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Rank at 3 is 11
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Rank at 4 is 15
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Rank at 5 is 15
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Best algorithm isASTAR 1 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+

@@ -24,7 +24,7 @@ public  class Dijkstra : MonoBehaviour {
         open.Enqueue ( start );
         while ( open.Count > 0 ) {
             n = open.Dequeue ();
-            n.GetComponent<Node> ().setVisited = true;
+            n.GetComponent<Node> ().setVisitedDijkstra = true;
             if ( n == goal ) {
                 s.Push ( goal );
                 while ( goal != start ) {
@@ -39,7 +39,7 @@ public  class Dijkstra : MonoBehaviour {
                 newCost = n.GetComponent<Node>().nodeCost + 
                     Vector3.Distance(n.transform.position, go.transform.position);
 
-                if ( child.GetComponent<Node> ().setVisited == true ) {
+                if ( child.GetComponent<Node> ().setVisitedDijkstra == true ) {
                     continue;
                 }
 

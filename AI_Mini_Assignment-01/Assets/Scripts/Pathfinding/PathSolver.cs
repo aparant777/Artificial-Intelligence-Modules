@@ -30,12 +30,27 @@ public class PathSolver : MonoBehaviour {
     void Update(){
         //compute the algorithm once
         if (once == false) {
+
+            System.Diagnostics.Stopwatch firstTime = System.Diagnostics.Stopwatch.StartNew();
+            firstTime.Start();
+
             path = dj.ComputePath(
                 gameObject.GetComponent<GetCurrentNode>().currentNode,
                 player.GetComponent<GetCurrentNode>().currentNode);
+
+            firstTime.Stop();
+            Debug.Log("Dijkstra: Total time is: " + firstTime.Elapsed);
+
+            System.TimeSpan ts = firstTime.Elapsed;
+            string temp = System.String.Format("{0:00}:{1:00}:{2:00}.{3:00}",
+            ts.Hours, ts.Minutes, ts.Seconds,
+            ts.Milliseconds / 10);
+
+            Debug.Log("Dijkstra: Nodes in open list are "+dj.DijkstraSendVisited());
+            Debug.Log("Dijkstra: Nodes in closed list are " + path.Count);
+            
             once = true;
         }
-
 
         if (path.Count > 0){
             goal = path.Peek();
@@ -57,10 +72,9 @@ public class PathSolver : MonoBehaviour {
 
 
                 if (Vector3.Distance(gameObject.transform.position, goalPosition) < 0.5f) {
-                    if (goal.GetComponent<Node>().goalVisisted == false) {
-                        goal.GetComponent<Node>().goalVisisted = true;
+                    if (goal.GetComponent<Node>().goalVisistedDijkstra == false) {
+                        goal.GetComponent<Node>().goalVisistedDijkstra = true;
                         path.Pop();
-
                     }
                 }
             }

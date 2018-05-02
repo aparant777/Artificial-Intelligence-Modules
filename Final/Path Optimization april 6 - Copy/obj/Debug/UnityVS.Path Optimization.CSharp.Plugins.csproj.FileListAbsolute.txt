@@ -1,0 +1,1 @@
+C:\Users\aparant\Documents\Unity Projects\Path Optimization\obj\Debug\UnityVS.Path Optimization.CSharp.Plugins.csprojResolveAssemblyReference.cache

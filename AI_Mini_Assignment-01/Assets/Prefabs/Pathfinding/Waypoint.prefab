@@ -49,7 +49,7 @@ MeshRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1813022783068710}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
@@ -107,11 +107,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a491055b216262646afb776ebf0f72a4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  goalVisisted: 0
+  goalVisistedDijkstra: 0
+  goalVisistedAstar: 0
   nodeRadius: 50
   goal: {fileID: 0}
-  setVisited: 0
   nodeCost: 0
+  gValue: 0
+  hValue: 0
+  fValue: 0
+  setVisitedAstar: 0
+  setVisitedDijkstra: 0
   children: []
   rowPosition: 0
   columnPosition: 0
